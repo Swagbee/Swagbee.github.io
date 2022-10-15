@@ -1682,3 +1682,6 @@ section .section-title{
 .my-float{
 	margin-top:16px;
 }
+.phone-info .row{
+	margin-bottom:1rem;
+}
